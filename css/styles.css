@@ -75,6 +75,7 @@ main {
 
 #skills img {
   width: 50px;
+  height: fit-content;
 }
 
 button {
